@@ -4,9 +4,9 @@ A Flutter package for both android and iOS which provides custom widgets
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/JioCoders/jio_widget/main/example/screenshots/ss1.png" height="400em" width="225em" />
+<img src="https://github.com/JioCoders/jio_widget/blob/main/example/screenshots/ss1.jpeg?raw=true" height="400em" width="225em" />
 
-<img src="https://raw.githubusercontent.com/JioCoders/jio_widget/main/example/screenshots/ss2.png" height="400em" width="225em" />
+<img src="https://raw.githubusercontent.com/JioCoders/jio_widget/main/example/screenshots/ss2.jpeg" height="400em" width="225em" />
 
 ## Usage
 
