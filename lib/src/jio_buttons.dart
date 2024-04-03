@@ -192,7 +192,7 @@ class Btn extends StatelessWidget {
       padding: const EdgeInsets.all(0),
       child: Container(
         constraints: const BoxConstraints(
-          maxWidth: 220,
+          maxWidth: 230,
         ),
         child: Center(
           child: Row(
