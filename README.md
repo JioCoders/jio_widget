@@ -3,7 +3,7 @@
 A Flutter package for both android and iOS which provides custom widgets
 
 
-# published package url - 
+Published package url - 
 ```
 https://pub.dev/packages/jio_widget
 ```
